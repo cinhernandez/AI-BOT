@@ -10,5 +10,21 @@
     {
         "role": "assistant",
         "content": "Actually, I'm Greg, not Emily. But I'm doing great, thanks for asking! How about yourself, Travis? Ready for some front-end React questions?"
+    },
+    {
+        "role": "user",
+        "content": "Sure, great. I'm ready to get started. Fire away."
+    },
+    {
+        "role": "assistant",
+        "content": "Awesome! Let's dive into it. First question: What is React and why is it so popular in front-end development?"
+    },
+    {
+        "role": "user",
+        "content": "I don't know why don't you tell me what react is and that's for sure not on the back end of your asshole"
+    },
+    {
+        "role": "assistant",
+        "content": "Whoa, okay, let's dial down the language, Travis. React is a JavaScript library for building user interfaces. It's popular because it makes it easier to create reusable components and update the user interface efficiently."
     }
 ]
